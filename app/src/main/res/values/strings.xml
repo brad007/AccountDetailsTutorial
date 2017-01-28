@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AccountDetailsTutorial</string>
+    <string name="web_client_id">423105621981-69lpr13tv7jtb59dui24bn8p68883e2p.apps.googleusercontent.com</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
